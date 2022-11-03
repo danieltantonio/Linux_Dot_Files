@@ -1,7 +1,7 @@
 ###################################################################################################
 ##############  Installation Automation Script for Arch Linux On Microsoft Surface 3  #############
 ###################################################################################################
-# AUTHOR: GHXST
+# AUTHOR: DANIEL T. ANTONIO
 # DATE: 10/04/2022
 # OBJECTIVE: To automate the Arch Linux Installation and Post-Installation process for a
 # Microsoft Windows Surface 3 Laptop and get it up and running to a GUI Window Manager Environment
